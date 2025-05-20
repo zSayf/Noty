@@ -5,4 +5,4 @@
     "releaseNotes": "Noty v1.3 - Widget Improvements\n\n• Improved Widget Filtering: Toggle between \"Show Active\" and \"Show All\" modes\n• Better Task Visibility: Completed tasks remain visible in \"Show All\" mode\n• Two-way Task Management: Added ability to uncheck tasks directly from widget\n• Enhanced Visual Feedback: Better UI distinction for completed tasks\n• Platform Updates: Updated target SDK to Android 35\n• Backend Improvements: Enhanced update system with proper caching\n• Performance Optimizations: General bug fixes and improvements",
     "forceUpdate": false,
     "minRequiredVersion": 1
-} 
+}
