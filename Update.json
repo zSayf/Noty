@@ -1,7 +1,7 @@
 {
     "versionCode": 3,
     "versionName": "V1.3",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.2/Noty.V1.2.apk",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.3/Noty.V1.3.apk",
 "releaseNotes": "• Completely redesigned update page with Material Design 3\n• Enhanced download experience with size and speed information\n• Added download time estimation and better progress visualization\n• Improved error handling and network connectivity checking\n• Enhanced accessibility features\n• Various bug fixes and performance improvements"    ,
     "forceUpdate": false,
     "minRequiredVersion": 1
