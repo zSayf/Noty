@@ -1,8 +1,8 @@
 {
-    "versionCode": 3,
-    "versionName": "V1.3",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.3/Noty.V1.3.apk",
-"releaseNotes": "• Completely redesigned update page with Material Design 3\n• Enhanced download experience with size and speed information\n• Added download time estimation and better progress visualization\n• Improved error handling and network connectivity checking\n• Enhanced accessibility features\n• Various bug fixes and performance improvements"    ,
+    "versionCode": 4,
+    "versionName": "V1.4",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.4/Noty.V1.4.apk",
+    "releaseNotes": "• Improved widget with toggle between \"Show Active\" and \"Show All\" modes\n• Completed tasks remain visible in widget when in \"Show All\" mode\n• Added ability to uncheck tasks directly from the widget\n• Updated widget UI with better visual distinction for completed tasks\n• Updated target SDK to 35\n• General bug fixes and performance improvements",
     "forceUpdate": false,
     "minRequiredVersion": 1
 }
