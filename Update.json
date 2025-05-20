@@ -1,0 +1,9 @@
+{
+    "versionCode": 1,
+    "versionName": "V1.0",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.0/Noty.V1.0.apk",
+    "releaseNotes": ""
+    ,
+    "forceUpdate": false,
+    "minRequiredVersion": 1
+}
