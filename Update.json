@@ -1,8 +1,8 @@
 {
-    "versionCode": 3,
-    "versionName": "V1.3",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.3/Noty.V1.3.apk",
-    "releaseNotes": "Noty v1.3 - Widget Improvements\n\n• Improved Widget Filtering: Toggle between \"Show Active\" and \"Show All\" modes\n• Better Task Visibility: Completed tasks remain visible in \"Show All\" mode\n• Two-way Task Management: Added ability to uncheck tasks directly from widget\n• Enhanced Visual Feedback: Better UI distinction for completed tasks\n• Platform Updates: Updated target SDK to Android 35\n• Backend Improvements: Enhanced update system with proper caching\n• Performance Optimizations: General bug fixes and improvements",
+    "versionCode": 4,
+    "versionName": "V1.4",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.4/Noty.V1.4.apk",
+    "releaseNotes": "Noty v1.4 - AI Task Creation Enhancements\n\n• Improved AI Transcription: Enhanced accuracy for both English and Egyptian Arabic\n• Advanced Task Extraction: Better context recognition in voice recordings\n• Smart Priority Detection: Automatic priority assignment based on speech context\n• Improved Task Categorization: More accurate automatic category selection\n• Enhanced UI Experience: Smoother recording and transcription flow\n• Performance Optimizations: Faster AI processing and response times\n• Bug Fixes: Fixed various minor issues throughout the app",
     "forceUpdate": false,
     "minRequiredVersion": 1
-}
+} 
