@@ -1,8 +1,8 @@
 {
-    "versionCode": 4,
-    "versionName": "V1.4",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.4/Noty.V1.4.apk",
-    "releaseNotes": "Noty v1.4 - AI Task Creation Enhancements\n\n• Improved AI Transcription: Enhanced accuracy for both English and Egyptian Arabic\n• Advanced Task Extraction: Better context recognition in voice recordings\n• Smart Priority Detection: Automatic priority assignment based on speech context\n• Improved Task Categorization: More accurate automatic category selection\n• Enhanced UI Experience: Smoother recording and transcription flow\n• Performance Optimizations: Faster AI processing and response times\n• Bug Fixes: Fixed various minor issues throughout the app",
+    "versionCode": 5,
+    "versionName": "V1.5",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.5/Noty.V1.5.apk",
+    "releaseNotes": "Noty v1.5 - Refinement & Polish\n\n• Enhanced Arabic Support: Further improvements to Egyptian Arabic recognition\n• Faster AI Processing: Reduced waiting time for AI operations\n• Better Context Understanding: More accurate extraction of details\n• UI Polish: Smoother animations and better visual feedback\n• Widget Synchronization: Improved real-time updates\n• Memory Optimization: Reduced memory usage during recording\n• Bug Fixes: Resolved several issues reported by users",
     "forceUpdate": false,
     "minRequiredVersion": 1
 } 
