@@ -1,8 +1,8 @@
 {
-    "versionCode": 6,
-    "versionName": "V1.6",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.6/Noty.V1.6.apk",
-    "releaseNotes": "Noty v1.6 - Responsive Design Update\n\n• Responsive UI: Optimized layouts that adapt to any screen size\n• Improved Landscape Mode: Better use of screen space in landscape orientation\n• Accessibility Enhancements: More consistent text sizing and spacing\n• Action Button Placement: Moved primary action buttons to a more accessible location\n• Widget Refinements: Enhanced widget appearance on different devices\n• Performance Optimizations: Smoother transitions and animations\n• Bug Fixes: Resolved minor UI inconsistencies",
+    "versionCode": 7,
+    "versionName": "V1.7",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.7/Noty.V1.7.apk",
+    "releaseNotes": "Noty v1.7 - UI Enhancement Update\n\n• Enhanced Stat Cards: Fixed number display in task and note counters\n• Improved Text Readability: Ensured proper text display across different screen sizes\n• Layout Optimization: Better vertical spacing and alignment of UI elements\n• Visual Consistency: Unified appearance across both portrait and landscape modes\n• Accessibility Improvements: Better touch targets and text contrast\n• Performance Optimizations: Reduced layout passes for smoother scrolling\n• Bug Fixes: Addressed visual glitches in the home screen",
     "forceUpdate": false,
     "minRequiredVersion": 1
 } 
