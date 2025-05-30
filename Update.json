@@ -1,8 +1,8 @@
 {
-    "versionCode": 7,
-    "versionName": "V1.7",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.7/Noty.V1.7.apk",
-    "releaseNotes": "Noty v1.7 - UI Enhancement Update\n\n• Enhanced Stat Cards: Fixed number display in task and note counters\n• Improved Text Readability: Ensured proper text display across different screen sizes\n• Layout Optimization: Better vertical spacing and alignment of UI elements\n• Visual Consistency: Unified appearance across both portrait and landscape modes\n• Accessibility Improvements: Better touch targets and text contrast\n• Performance Optimizations: Reduced layout passes for smoother scrolling\n• Bug Fixes: Addressed visual glitches in the home screen",
+    "versionCode": 8,
+    "versionName": "V1.8",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.8/Noty.V1.8.apk",
+    "releaseNotes": "Noty v1.8 - UI Modernization Update\n\n• Redesigned Todo Editor: Completely revamped Todo editing dialog with a more modern, intuitive interface\n• Enhanced Visual Design: Updated color scheme with better contrast and readability\n• Improved Interaction: Larger, more accessible buttons with clear visual hierarchy\n• Better Organization: Added clear section headers and improved spacing\n• Enhanced Typography: Consistent text sizes and styles for better readability\n• Optimized Layout: Expanded dialog width and better use of screen space\n• Visual Consistency: Better alignment with the main app's design language\n• User Experience: More intuitive flow through form elements",
     "forceUpdate": false,
     "minRequiredVersion": 1
-} 
+}
