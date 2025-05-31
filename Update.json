@@ -1,8 +1,8 @@
 {
-    "versionCode": 10,
-    "versionName": "V2.0",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V2.0/Noty.V2.0.apk",
-    "releaseNotes": "Noty v2.0 - UI Enhancement Update\n\n• Task Completion: Added ability to mark tasks complete directly from the main tab\n• Improved Visual Feedback: Added strikethrough text styling for completed tasks\n• Enhanced UI Responsiveness: Immediate visual feedback when completing tasks\n• Performance Improvements: Optimized task list rendering and updates\n• Android 12+ Support: Continued compatibility improvements for newer Android versions\n• Bug Fixes: Various minor fixes and stability improvements",
+    "versionCode": 11,
+    "versionName": "V2.1",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V2.1/Noty.V2.1.apk",
+    "releaseNotes": "Noty v2.1 - Complete Arabic Localization\n\n• Full Arabic Support: Complete translation of the entire application interface to Arabic\n• Right-to-Left (RTL) Layout: Proper RTL support throughout the application\n• Localized Notifications: All alerts, reminders, and notification messages in Arabic\n• Voice Recorder Localization: Arabic translations for voice recording and transcription features\n• Widget Localization: Complete Arabic support for the home screen widget\n• Update System Localization: Update notifications and dialogs now available in Arabic\n• Consistent Experience: Unified Arabic terminology throughout the app",
     "forceUpdate": false,
     "minRequiredVersion": 1
 }
