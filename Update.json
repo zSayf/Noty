@@ -1,8 +1,8 @@
 {
-    "versionCode": 8,
-    "versionName": "V1.8",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.8/Noty.V1.8.apk",
-    "releaseNotes": "Noty v1.8 - UI Modernization Update\n\n• Redesigned Todo Editor: Completely revamped Todo editing dialog with a more modern, intuitive interface\n• Enhanced Visual Design: Updated color scheme with better contrast and readability\n• Improved Interaction: Larger, more accessible buttons with clear visual hierarchy\n• Better Organization: Added clear section headers and improved spacing\n• Enhanced Typography: Consistent text sizes and styles for better readability\n• Optimized Layout: Expanded dialog width and better use of screen space\n• Visual Consistency: Better alignment with the main app's design language\n• User Experience: More intuitive flow through form elements",
+    "versionCode": 9,
+    "versionName": "V1.9",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.9/Noty.V1.9.apk",
+    "releaseNotes": "Noty v1.9 - Android 12 Compatibility Update\n\n• Android 12 Support: Fixed crashes and compatibility issues with Android 12 and newer devices\n• Improved Notifications: Updated handling of notifications and alarms to support new Android requirements\n• Permissions Management: Added support for new permission model for scheduling exact alarms\n• Enhanced Stability: Fixed null pointer exceptions in todo item handling\n• Updated Overlays: Modernized overlay displays using current Android standards\n• Bug Fixes: Addressed various issues to improve overall app stability",
     "forceUpdate": false,
     "minRequiredVersion": 1
 }
