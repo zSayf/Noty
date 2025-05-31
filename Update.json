@@ -1,6 +1,6 @@
 {
-    "versionCode": 9,
-    "versionName": "V1.9",
+    "versionCode": 10,
+    "versionName": "V1.10",
     "updateUrl": "https://github.com/zSayf/Noty/releases/download/V1.9/Noty.V1.9.apk",
     "releaseNotes": "Noty v1.9 - Android 12 Compatibility Update\n\n• Android 12 Support: Fixed crashes and compatibility issues with Android 12 and newer devices\n• Improved Notifications: Updated handling of notifications and alarms to support new Android requirements\n• Permissions Management: Added support for new permission model for scheduling exact alarms\n• Enhanced Stability: Fixed null pointer exceptions in todo item handling\n• Updated Overlays: Modernized overlay displays using current Android standards\n• Bug Fixes: Addressed various issues to improve overall app stability",
     "forceUpdate": false,
