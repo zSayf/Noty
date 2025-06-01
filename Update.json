@@ -1,8 +1,8 @@
 {
-    "versionCode": 11,
-    "versionName": "V2.1",
-    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V2.1/Noty.V2.1.apk",
-    "releaseNotes": "Noty v2.1 - Complete Arabic Localization\n\n• Full Arabic Support: Complete translation of the entire application interface to Arabic\n• Right-to-Left (RTL) Layout: Proper RTL support throughout the application\n• Localized Notifications: All alerts, reminders, and notification messages in Arabic\n• Voice Recorder Localization: Arabic translations for voice recording and transcription features\n• Widget Localization: Complete Arabic support for the home screen widget\n• Update System Localization: Update notifications and dialogs now available in Arabic\n• Consistent Experience: Unified Arabic terminology throughout the app",
+    "versionCode": 12,
+    "versionName": "V2.2",
+    "updateUrl": "https://github.com/zSayf/Noty/releases/download/V2.2/Noty.V2.2.apk",
+    "releaseNotes": "Noty v2.2 - User API Key Implementation\n\n• User-Specific API Keys: Removed default API key in favor of user-provided Gemini API keys\n• Enhanced Security: Each user now has their own secure API key storage\n• Improved Reliability: Eliminated shared API rate limits for better performance\n• Simplified Setup Process: Clear step-by-step instructions for obtaining and setting up an API key\n• Secure Storage: All API keys are encrypted using Android's security mechanisms\n• Seamless Experience: One-time setup with persistent storage of your personal API key\n• Enhanced Validation: Real-time validation of API keys with instant feedback",
     "forceUpdate": false,
     "minRequiredVersion": 1
 }
